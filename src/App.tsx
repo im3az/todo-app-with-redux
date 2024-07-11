@@ -2,7 +2,7 @@ import Todo from "./pages/Todo";
 
 function App() {
   return (
-    <div>
+    <div className="p-1">
       <Todo />
     </div>
   );
